@@ -1,0 +1,19 @@
+pytorch2.5.1:­
+s
+input//submodel/submodel.0/GlobalAveragePool_output_0&/submodel/submodel.0/GlobalAveragePool"GlobalAveragePool
+Y
+//submodel/submodel.0/GlobalAveragePool_output_0output/Flatten"Flatten*
+axis 
+main_graphZ*
+input!
+
+
+batch_size
+€
+
+b#
+output
+
+
+batch_size
+€B
