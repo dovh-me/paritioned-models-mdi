@@ -8,4 +8,4 @@ This repository provides partitioned ONNX versions of ResNet-50, ResNet-18, and 
 
 By using the MobileNetV2 partitions, you agree to comply with the terms of the **Apache 2.0 License**.
 
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE.md) file for details.
